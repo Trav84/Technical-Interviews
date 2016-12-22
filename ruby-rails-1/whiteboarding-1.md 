@@ -1,0 +1,8 @@
+#Whiteboarding questions
+
+Write out fizzbuzz in ruby.
+
+Write out a standard CRUD controller.
+
+In the index method query the DB for all jobs from a certain point till time.now.
+
